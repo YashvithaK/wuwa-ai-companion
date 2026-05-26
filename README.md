@@ -1,10 +1,10 @@
 # Wuthering Waves AI Companion
 
-An AI-powered Saas platform built for Wuthering Waves plaers. Get intelligent build recommendations, team optimization and progression planning - powered by AI.
+An AI-powered Saas platform built for Wuthering Waves players. Get intelligent build recommendations, team optimization and progression planning - powered by AI.
 
 ## Overview 
 
-This project was buuilt to demonstrate sull-stack engineering skills including authentication, database design, AI integration, rate limiting and scalable architecture.
+This project was built to demonstrate sull-stack engineering skills including authentication, database design, AI integration, rate limiting and scalable architecture.
 
 ## Tech Stack
 
@@ -16,12 +16,12 @@ This project was buuilt to demonstrate sull-stack engineering skills including a
 - **AI:** OpenRouter API 
 
 ## Features
-- [] Landing page + responsive design
-- [] Authentication (Google OAuth)
-- [] AI chat interface with streaming
-- [] Prompt history dashboard 
-- [] Rate limiting + usage tracking 
-- [] Free vs Pro subscription system
+- [ ] Landing page + responsive design
+- [ ] Authentication (Google OAuth)
+- [ ] AI chat interface with streaming
+- [ ] Prompt history dashboard 
+- [ ] Rate limiting + usage tracking 
+- [ ] Free vs Pro subscription system
 
 ## Status 
 
